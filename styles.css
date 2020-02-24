@@ -1,0 +1,40 @@
+body {
+    font-family: Arial;
+    background: #ccc;
+  }
+  
+  .coupon {
+    border: 4px ridge rgba(121, 50, 50, 0.767);
+    width: 80%;
+    border-radius: 15px;
+    margin: 0 auto;
+    max-width: 600px;
+  }
+  
+  .container {
+    padding: 2px 16px;
+    background-color: #f1f1f1;
+  }
+ 
+  .container h3{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 24px;
+  }
+  .container h2{
+    font-family: 'Dancing Script', cursive;
+    text-align: center;
+    font-size: 24px;   
+  }
+  .container p{
+    font-family: 'Dancing Script', cursive;
+    font-size: 18px;
+  }
+  .promo {
+    background: #ccc;
+    padding: 3px;
+  }
+  
+  .expire {
+    color: red;
+  }
